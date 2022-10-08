@@ -1,0 +1,6 @@
+framework module HGLocationManager {
+  umbrella header "HGLocationManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

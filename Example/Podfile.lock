@@ -1,0 +1,16 @@
+PODS:
+  - HGLocationManager (0.0.1)
+
+DEPENDENCIES:
+  - HGLocationManager (from `../`)
+
+EXTERNAL SOURCES:
+  HGLocationManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HGLocationManager: 15ac4d5a51274fcfa721a87a520c2db7fbd5e6a1
+
+PODFILE CHECKSUM: 2506a7693d2d8bb57460e6a24be11e1f3bffdff8
+
+COCOAPODS: 1.11.3
